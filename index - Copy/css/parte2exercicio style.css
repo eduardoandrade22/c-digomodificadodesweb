@@ -1,0 +1,42 @@
+/* styles.css */
+
+body {
+    background-color: #fff;
+    color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1em;
+    margin: 0;
+  }
+
+  h1 {
+    color: hotpink; /* Cor rosa */
+    font-size: 2em;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    border-bottom: 10px dotted purple; /* Pontilhado, 10px, cor roxa */
+  }
+
+  h2 {
+    font-size: 1.5em;
+    font-style: italic; /* Itálico */
+  }
+
+  .job-title {
+    color: #999999;
+    font-weight: bold;
+  }
+
+  a:link,
+  a:visited {
+    color: #fb6542; /* Cor original */
+  }
+
+  a:hover {
+    color: green; /* Cor verde ao passar o mouse */
+    text-decoration: none;
+  }
+
+  ul {
+    background-color: #eeeeee; /* Cor de fundo cinza claro */
+    border: 5px solid purple; /* Borda sólida, 5px, cor roxa */
+    padding: 10px; /* Espaçamento interno */
+  }
